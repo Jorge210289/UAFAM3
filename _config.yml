@@ -1,7 +1,7 @@
 # Base Variables
-title: Instituto del Ambiente
-subtitle: Estudios Superiores en Medio Ambiente y Recursos Naturales
-url: http://institutodelambiente.edu.do
+title: UAFAM
+subtitle: Universidad Agroforestal Fernando Arturo de Meriño
+url: http://uafam.edu.do
 
 # SASS
 sass:
@@ -15,7 +15,7 @@ permalink: pretty
 collections:
   careers:
     output: true
-    permalink: /instituto/:collection/:name
+    permalink: /uafam/:collection/:name
   teachers:
     output: false
 
