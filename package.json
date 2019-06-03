@@ -1,16 +1,16 @@
 {
-  "name": "instituto-nacional",
+  "name": "UAFAM-nacional",
   "version": "1.0.0",
-  "description": "Official website of the Instituto del Ambiente in Jarabacoa, Dominican Republic.",
+  "description": "Página web oficial UAFAM en Jarabacoa, Dominican Republic.",
   "main": "index.html",
   "scripts": {
     "build": "jekyll build"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andreasremdt/instituto-nacional.git"
+    "url": "https://jorge210289.github.io/UAFAM3/"
   },
-  "author": "Andreas Remdt",
+  "author": "Jorge Luis Abreu",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
