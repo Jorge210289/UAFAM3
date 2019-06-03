@@ -2,7 +2,7 @@
 layout: landing-page
 
 title: Bienvenidos
-description: El Instituto del Ambiente es una institucion para la enseñanza sobre el Medio Ambiente.
+description: Universidad Agroforestal Fernando Arturo de Meriño.
 
 menus:
   header:
@@ -13,12 +13,12 @@ menus:
     weight: 1
 
 hero:
-  title: Únete con el Medio Ambiente
-  subtitle: ¿Quieres estudiar en el área de medio ambiente y proteger tu mundo?<br>¡Empieza aquí!
+  title: Excelencia Académica al Servicio del Desarrollo Sostenible!
+  subtitle: Estudia en la UAFAM y asegura tu futuro<br>¡Empieza aquí!
 
 about:
-  pretitle: 326 estudiantes graduados
-  title: Preparando técnicos desde 1968
+  pretitle: Más de 1700 profesionales
+  title: Forjando profesionales desde 1996
 
 tiles:
   - name: El Campus
@@ -35,4 +35,4 @@ tiles:
     thumbnail: https://res.cloudinary.com/instituto-del-ambiente/image/upload/c_scale,q_80,w_550/pages/profesores.jpg
 ---
 
-Ubicado en el corazón verde de la República Dominicana en Jarabacoa, preparamos jóvenes de todo el país para una carrera técnica. Nuestros estudiantes se gradúan como **Gestores Ambientales** y **Ciencias Forestales** y trabajan en empresas que se dedican al **Medio Ambiente**.
+La UAFAM es una Universidad comprometida con el desarrollo sostenible de la República Dominicana, mediante la formación de técnicos y profesionales en el área del saber con énfasis en el fomento, protección y aprovechamiento de los recursos naturales.
