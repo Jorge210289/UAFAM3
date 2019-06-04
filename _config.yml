@@ -28,3 +28,5 @@ exclude:
   - package-lock.json
   - src
   - tailwind.js
+
+theme: jekyll-theme-time-machine
