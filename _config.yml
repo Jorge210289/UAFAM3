@@ -29,4 +29,4 @@ exclude:
   - src
   - tailwind.js
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-midnight
